@@ -1,0 +1,6 @@
+"color merge in shading colours"
+black
+white
+red
+blue
+
